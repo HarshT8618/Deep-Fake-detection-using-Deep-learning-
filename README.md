@@ -10,7 +10,11 @@ This project focuses on detecting deepfakes from both images and videos using ma
 - Classification results displayed visually and/or via terminal.
 - Supports batch processing and real-time detection.
 
-## 📁 Project Structure
+## 📁 Project Results 
+![WhatsApp Image 2025-02-19 at 11 37 24 AM](https://github.com/user-attachments/assets/56f714e3-a254-4dad-ac91-d34e38e6f565)
+
+![WhatsApp Image 2025-03-17 at 12 44 33 (1)](https://github.com/user-attachments/assets/9d0a06a9-9d21-48aa-8eaf-6211bc990ae6)
+![WhatsApp Image 2025-02-19 at 11 37 24 AM (1)](https://github.com/user-attachments/assets/44568aaf-efce-4016-a820-18eb24e22513)
 
 
 ## ⚙️ Setup Instructions
@@ -26,10 +30,8 @@ pip install -r requirements.txt
 after installing 
 python app.py
 
-#Results
-![WhatsApp Image 2025-02-19 at 11 37 24 AM](https://github.com/user-attachments/assets/bf4c3de6-b3fa-4e6b-a55a-0fff310170c2)
-![WhatsApp Image 2025-03-17 at 12 44 33 (1)](https://github.com/user-attachments/assets/74f0429d-8af0-4012-ab33-89548d37bd26)
-![WhatsApp Image 2025-02-19 at 11 37 24 AM (1)](https://github.com/user-attachments/assets/576d420d-1734-4248-88f5-a9d9528685c3)
+
+
 
 
 
