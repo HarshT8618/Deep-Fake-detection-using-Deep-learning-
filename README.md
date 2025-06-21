@@ -27,3 +27,12 @@ after installing
 python app.py
 
 #Results
+![WhatsApp Image 2025-02-19 at 11 37 24 AM](https://github.com/user-attachments/assets/bf4c3de6-b3fa-4e6b-a55a-0fff310170c2)
+![WhatsApp Image 2025-03-17 at 12 44 33 (1)](https://github.com/user-attachments/assets/74f0429d-8af0-4012-ab33-89548d37bd26)
+![WhatsApp Image 2025-02-19 at 11 37 24 AM (1)](https://github.com/user-attachments/assets/576d420d-1734-4248-88f5-a9d9528685c3)
+
+
+
+
+
+
